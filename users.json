@@ -12,5 +12,12 @@
         "acc_num": 392668,
         "acc_pin": 2781,
         "balance": 100
+    },
+    "shivam228@gmail.com": {
+        "name": "shivam",
+        "phone": 1234598760,
+        "acc_num": 236730,
+        "acc_pin": 2164,
+        "balance": 0
     }
 }
