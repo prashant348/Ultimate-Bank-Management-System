@@ -1,0 +1,16 @@
+{
+    "prashant999@gmail.com": {
+        "name": "prashant",
+        "phone": 1234567890,
+        "acc_num": 582512,
+        "acc_pin": 6503,
+        "balance": 100
+    },
+    "krishna111@gmail.com": {
+        "name": "krishna",
+        "phone": 9876543210,
+        "acc_num": 392668,
+        "acc_pin": 2781,
+        "balance": 100
+    }
+}
